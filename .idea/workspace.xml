@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da0ef407-8090-4617-a052-82d7e135ed6a" name="Default Changelist" comment="" />
+    <list default="true" id="da0ef407-8090-4617-a052-82d7e135ed6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicapp/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/basicapp/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicapp/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/basicapp/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/signup/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +17,11 @@
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YOlIvDFz7UGO0Ewq26dDRy2FNY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -18,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -74,7 +86,9 @@
       <workItem from="1582821644607" duration="5847000" />
       <workItem from="1582844120348" duration="838000" />
       <workItem from="1582906928279" duration="104000" />
-      <workItem from="1582907180973" duration="1684000" />
+      <workItem from="1582907180973" duration="2649000" />
+      <workItem from="1582917296173" duration="625000" />
+      <workItem from="1582938994290" duration="536000" />
     </task>
     <servers />
   </component>
@@ -94,26 +108,26 @@
       <screen x="0" y="23" width="1680" height="989" />
     </state>
     <state x="530" y="264" key="FileChooserDialogImpl/0.23.1680.989@0.23.1680.989" timestamp="1582821516142" />
-    <state width="1199" height="198" key="GridCell.Tab.0.bottom" timestamp="1582907033215">
+    <state width="1199" height="198" key="GridCell.Tab.0.bottom" timestamp="1582939844860">
       <screen x="0" y="23" width="1680" height="989" />
     </state>
-    <state width="1199" height="198" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.989@0.23.1680.989" timestamp="1582845252591" />
-    <state width="1199" height="198" key="GridCell.Tab.0.bottom/0.23.1680.989@0.23.1680.989" timestamp="1582907033215" />
-    <state width="1199" height="198" key="GridCell.Tab.0.center" timestamp="1582907033214">
+    <state width="1199" height="198" key="GridCell.Tab.0.bottom/-2560.23.2560.1417/0.23.1680.989@0.23.1680.989" timestamp="1582918149638" />
+    <state width="1199" height="198" key="GridCell.Tab.0.bottom/0.23.1680.989@0.23.1680.989" timestamp="1582939844860" />
+    <state width="1199" height="198" key="GridCell.Tab.0.center" timestamp="1582939844859">
       <screen x="0" y="23" width="1680" height="989" />
     </state>
-    <state width="1199" height="198" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.989@0.23.1680.989" timestamp="1582845252591" />
-    <state width="1199" height="198" key="GridCell.Tab.0.center/0.23.1680.989@0.23.1680.989" timestamp="1582907033214" />
-    <state width="1199" height="198" key="GridCell.Tab.0.left" timestamp="1582907033213">
+    <state width="1199" height="198" key="GridCell.Tab.0.center/-2560.23.2560.1417/0.23.1680.989@0.23.1680.989" timestamp="1582918149637" />
+    <state width="1199" height="198" key="GridCell.Tab.0.center/0.23.1680.989@0.23.1680.989" timestamp="1582939844859" />
+    <state width="1199" height="198" key="GridCell.Tab.0.left" timestamp="1582939844858">
       <screen x="0" y="23" width="1680" height="989" />
     </state>
-    <state width="1199" height="198" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.989@0.23.1680.989" timestamp="1582845252590" />
-    <state width="1199" height="198" key="GridCell.Tab.0.left/0.23.1680.989@0.23.1680.989" timestamp="1582907033213" />
-    <state width="1199" height="198" key="GridCell.Tab.0.right" timestamp="1582907033214">
+    <state width="1199" height="198" key="GridCell.Tab.0.left/-2560.23.2560.1417/0.23.1680.989@0.23.1680.989" timestamp="1582918149637" />
+    <state width="1199" height="198" key="GridCell.Tab.0.left/0.23.1680.989@0.23.1680.989" timestamp="1582939844858" />
+    <state width="1199" height="198" key="GridCell.Tab.0.right" timestamp="1582939844859">
       <screen x="0" y="23" width="1680" height="989" />
     </state>
-    <state width="1199" height="198" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.989@0.23.1680.989" timestamp="1582845252591" />
-    <state width="1199" height="198" key="GridCell.Tab.0.right/0.23.1680.989@0.23.1680.989" timestamp="1582907033214" />
+    <state width="1199" height="198" key="GridCell.Tab.0.right/-2560.23.2560.1417/0.23.1680.989@0.23.1680.989" timestamp="1582918149638" />
+    <state width="1199" height="198" key="GridCell.Tab.0.right/0.23.1680.989@0.23.1680.989" timestamp="1582939844859" />
     <state x="430" y="138" key="SettingsEditor" timestamp="1582821797770">
       <screen x="0" y="23" width="1680" height="989" />
     </state>
