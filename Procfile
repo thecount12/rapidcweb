@@ -1,1 +1,1 @@
-web: gunicorn oninweb.wsgi --log-file -
+web: gunicorn rapidcweb.wsgi --log-file -
