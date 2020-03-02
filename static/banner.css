@@ -1,6 +1,14 @@
 .jumbotron {
-	background-image: url(/static/banner.png);
+	background-image: url(/static/banner1.png);
 	background-size: cover;
 	height: 100%;
+        /* filter: grayscale(100%); */
 	}
 
+img {
+        -webkit-filter: grayscale(100%); /* safari 6.0 -9.0 */
+        -webkit-filter: blur(1px);
+        filter: blur(1px); 
+        filter: grayscle(100%);
+
+}
